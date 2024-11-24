@@ -4,7 +4,7 @@
 **dinakazakevich/dinakazakevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently enjoying my sabbatical.
+- 🔭 I’m currently enjoying my sabbatical
 - 🌱 and learning [Cypress](https://github.com/cypress-io/) with: 
   - [Real World Testing with Cypress - Course App](https://github.com/dinakazakevich/cypress-io-cypress-realworld-testing-course-app)
   - [Real World Testing with Cypress Blog](https://github.com/dinakazakevich/dinakazakevich-cypress-realworld-testing-blog)
