@@ -4,12 +4,10 @@
 **dinakazakevich/dinakazakevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently enjoying my self-funded sabbatical
-- 🌱 and learning [Cypress](https://github.com/cypress-io/) with: 
-  - [Real World Testing with Cypress - Course App](https://github.com/dinakazakevich/cypress-io-cypress-realworld-testing-course-app)
-  - [Real World Testing with Cypress Blog](https://github.com/dinakazakevich/dinakazakevich-cypress-realworld-testing-blog)
-  - [Realworld Cypress](https://github.com/dinakazakevich/cypress-realworld-app) 
-- 👯 I’m looking to collaborate on a project that involves [Cypress](https://github.com/cypress-io/) or [Playwright](https://github.com/microsoft/playwright)
+- 🔭 I’m currently looking to join projects that involve [Cypress](https://github.com/cypress-io/) or [Playwright](https://github.com/microsoft/playwright)
+- I love pioneered automation within projects that have no existing infrastructure or processes in place
+- I see myself as an advocate for Quality Engineering, Context-Driven Testing, and Shift-Left Approach
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dinakazakevich/)
+
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dinakazakevich/)
 
