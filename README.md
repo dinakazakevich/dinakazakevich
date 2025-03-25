@@ -25,11 +25,8 @@ I work best in teams that value collaboration, autonomy, and a quality-first min
 
 - **Asynchronous collaboration**. Asynchronous collaboration helps teams minimize face-to-face call times while also maximizing focused work time and  preventing knowledge silos. 
 
-- 🔭 I’m currently looking to join new projects.
-- Experience with JavaScript, TypeScript, Node.js, Cypress, Playwright, Puppeteer, Github CI/CD, Postman API-automation
-- I've pioneered automation within projects that have no existing infrastructure or processes in place
-- I see myself as an advocate for Quality Engineering, Context-Driven Testing, and Shift-Left Approach
 
+🔭 I’m currently looking to join new projects that include JavaScript, TypeScript, Node.js, Cypress, Playwright, Puppeteer, Github CI/CD, Postman API-automation
 
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/dinakazakevich/)
 
