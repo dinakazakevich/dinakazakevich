@@ -8,7 +8,7 @@ I'm Dina. A multi-disciplinary QA Engineer, with over 7 years of experience in s
 
 I have built out and maintained automation frameworks from the ground up in companies without existing infrastructure. 
 
-For example, in 2019-2021 I built out an API automation solution for an Enterprise VoIP telephony service, scenarios including authentication, grouping and sequential test execution with Postman + JavaScript. In 2021-2024 I was in charge of full-cycle testing and automation at Adalo, Inc. where I built out automation from scratch using Puppeteer + Jest TypeScript before successfully migrating the project from Puppeteer to Playwright. 
+For example, in 2019-2021 I built out an API automation solution for an enterprise VoIP telephony service, scenarios including authentication, grouping and end-to-end call-center flows simulation with Postman + JavaScript. In 2021-2024 I was in charge of full-cycle testing and automation at Adalo, Inc. where I built out automation from scratch using Puppeteer + Jest TypeScript before successfully migrating the project from Puppeteer to Playwright. 
 
 
 I work best in teams that value collaboration, autonomy, and a quality-first mindset—keeping things efficient, flexible, and fun to build together. My values include: 
