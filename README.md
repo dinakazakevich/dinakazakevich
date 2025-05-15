@@ -4,7 +4,7 @@
 **dinakazakevich/dinakazakevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Dina. A multi-disciplinary QA Engineer, with over 7 years of experience in software testing. Passionate about quality engineering, automation, and shift-left approach. I’m also a content creation. A total of 33K subscribers across all platforms. 
+I'm Dina. A multi-disciplinary QA Engineer, with over 7 years of experience in software testing. Passionate about quality engineering, automation, and shift-left approach. I’m also a content creator. A total of 33K subscribers across all platforms. 
 
 I build out and maintain full-cycle testing and automation frameworks in companies without existing infrastructure or processes. I've worked with companies like Adalo, Inc., TestLauncher.Inc, EvolveIP, and Invoice Simple. 
 
