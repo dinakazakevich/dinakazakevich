@@ -1,0 +1,16 @@
+{
+  "tabWidth": 2,
+  "printWidth": 120,
+  "singleQuote": false,
+  "proseWrap": "always",
+  "embeddedLanguageFormatting": "auto",
+  "htmlWhitespaceSensitivity": "ignore",
+  "overrides": [
+    {
+      "files": "README.md",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
