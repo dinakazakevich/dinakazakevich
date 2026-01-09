@@ -28,10 +28,21 @@
   </a>
 </h4>
 <p>
-  Check out this practical End-to-End testing project demonstrating my familiarity with advanced Playwright concepts,
+  Check out this practical End-to-End project demonstrating my familiarity with advanced Playwright concepts,
   TypeScript Docker and Github CI/CD on an e-commerce application.
 </p>
 <hr />
+
+<h4 align="left">
+  ✅
+  <a href="https://github.com/dinakazakevich/sko-xcuitests/">
+    XCUITest E2E Framework Project | 🧼 SKO Skincare Routine Tracker
+  </a>
+</h4>
+<p>
+  An example of a basic XCUITest project structure for a native iOS Swift app built around the Page Object pattern and XCUITest primitives. 
+</p>
+<hr /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
