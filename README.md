@@ -29,7 +29,7 @@
 </h4>
 <p>
   Check out this practical End-to-End project demonstrating my familiarity with advanced Playwright concepts,
-  TypeScript Docker and Github CI/CD on an e-commerce application.
+  TypeScript, Docker, and Github CI/CD on an e-commerce application.
 </p>
 <hr />
 
@@ -40,7 +40,7 @@
   </a>
 </h4>
 <p>
-  An example of a basic XCUITest project structure for a native iOS Swift app built around the Page Object pattern and XCUITest primitives. 
+  An example of a basic XCUITest project structure for a native iOS Swift app built around the Page Object pattern and XCUIAutomation primitives. 
 </p>
 <hr /> 
 
