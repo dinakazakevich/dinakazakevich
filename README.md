@@ -53,7 +53,7 @@
 
 <h3 align="left">Technologies and tools:</h3>
 
-**Testing & QA:** 
+Testing & QA: 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=plastic&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-13C413?style=plastic&logo=cypress&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=plastic&logo=puppeteer&logoColor=white)
@@ -62,42 +62,42 @@
 ![XCUITest](https://img.shields.io/badge/XCUITest-147EFB?style=plastic&logo=xcode&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-0099CC?style=plastic&logoColor=white)
 
-**Languages & Web Development:** 
+Languages & Web Development: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
-**Backend & Databases:** 
+Backend & Databases: 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 
-**Mobile Development:** 
+Mobile Development: 
 ![XCode](https://img.shields.io/badge/XCode-147EFB?style=plastic&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white)
 
-**Version Control & CI/CD:** 
+Version Control & CI/CD: 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=plastic&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=plastic&logo=jenkins&logoColor=white)
 
-**DevOps & Infrastructure:** 
+DevOps & Infrastructure: 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
 
-**Design & Development Tools:** 
+Design & Development Tools: 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=jekyll&logoColor=white)
 
-**AI & Coding Assistants:** 
+AI & Coding Assistants: 
 ![Claude](https://img.shields.io/badge/Claude-000000?style=plastic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-010101?style=plastic&logo=github&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-00DC82?style=plastic&logoColor=white)
 
-**Monitoring & Debugging:** 
+Monitoring & Debugging: 
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-7A5FA3?style=plastic&logoColor=white)
 
