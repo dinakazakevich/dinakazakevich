@@ -46,7 +46,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic" /></a>
+  <a href="https://twitter.com/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=plastic" /></a>
   <a href="https://linkedin.com/in/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" /></a>
 </p>
 <hr />
@@ -93,9 +93,9 @@ Design & Development Tools:
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=jekyll&logoColor=white" alt="Jekyll" style="vertical-align: middle" /></a>
 
 AI & Coding Assistants: 
-<a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-000000?style=plastic&logoColor=white" alt="Claude" style="vertical-align: middle" /></a>
+<a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude%20Code-000000?style=plastic&logo=claude&logoColor=white" alt="Claude Code" style="vertical-align: middle" /></a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub%20Copilot-010101?style=plastic&logo=github&logoColor=white" alt="GitHub Copilot" style="vertical-align: middle" /></a>
-<a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cursor%20AI-00DC82?style=plastic&logoColor=white" alt="Cursor AI" style="vertical-align: middle" /></a>
+<a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cursor%20AI-00DC82?style=plastic&logo=cursor&logoColor=white" alt="Cursor AI" style="vertical-align: middle" /></a>
 
 Monitoring & Debugging: 
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry&logoColor=white" alt="Sentry" style="vertical-align: middle" /></a>
