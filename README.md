@@ -46,41 +46,61 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" /></a>
-  <a href="https://linkedin.com/in/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" /></a>
+  <a href="https://twitter.com/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic" /></a>
+  <a href="https://linkedin.com/in/dinakazakevich/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" /></a>
 </p>
 <hr />
 
 <h3 align="left">Technologies and tools:</h3>
-<p align="left">
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.ico" alt="playwright" width="40" height="40" /></a>
-  <a href="https://pptr.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/puppeteer.svg" alt="puppeteer" width="40" height="40" /></a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" alt="cypress" width="40" height="40" /></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xcode.svg" alt="xcode" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" alt="postman" width="40" height="40" /></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jest.svg" alt="jest" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jekyll.svg" alt="jekyll" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="figma" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nodedotjs.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg" alt="github-actions" width="40" height="40" /></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jenkins.svg" alt="jenkins" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnu-bash.svg" alt="bash" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/heroku.svg" alt="heroku" width="40" height="40" /></a>
-  <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"><img src="https://www.testrail.com/wp-content/uploads/2025/09/cropped-Testrail-Favicon.png" alt="testrail" width="40" height="40" /></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/androidstudio.svg" alt="android studio" width="40" height="40" /></a>
-  <a href="https://sentry.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1396951" alt="sentry" width="40" height="40" /></a>
-  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" alt="charles proxy" width="40" height="40" /></a>
-  <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://cursor.com/marketing-static/favicon-light.ico" alt="cursorai" width="40" height="40" /></a>
-</p>
+
+**Testing & QA:** 
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=plastic&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-13C413?style=plastic&logo=cypress&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=plastic&logo=puppeteer&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![XCUITest](https://img.shields.io/badge/XCUITest-147EFB?style=plastic&logo=xcode&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-0099CC?style=plastic&logoColor=white)
+
+**Languages & Web Development:** 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+
+**Backend & Databases:** 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+
+**Mobile Development:** 
+![XCode](https://img.shields.io/badge/XCode-147EFB?style=plastic&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white)
+
+**Version Control & CI/CD:** 
+![Git](https://img.shields.io/badge/Git-F1502F?style=plastic&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=plastic&logo=jenkins&logoColor=white)
+
+**DevOps & Infrastructure:** 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
+
+**Design & Development Tools:** 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=plastic&logo=jekyll&logoColor=white)
+
+**AI & Coding Assistants:** 
+![Claude](https://img.shields.io/badge/Claude-000000?style=plastic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-010101?style=plastic&logo=github&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-00DC82?style=plastic&logoColor=white)
+
+**Monitoring & Debugging:** 
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-7A5FA3?style=plastic&logoColor=white)
+
 <hr />
 
 <h3 align="left">My values include:</h3>
